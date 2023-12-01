@@ -1,3 +1,6 @@
+# WARNING
+This is a fork. Do not use it in your own project.
+
 <div align="right">
   Language:
   🇺🇸
