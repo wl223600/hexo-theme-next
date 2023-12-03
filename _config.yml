@@ -439,25 +439,25 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: false
-    family: PingFang SC, HarmonyOS_Medium, Helvetica Neue, Microsoft YaHei, sans-serif
+    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
     size: 1.125
 
   # Font settings for site title (.site-title).
   title:
     external: false
-    family: PingFang SC, HarmonyOS_Medium, Helvetica Neue, Microsoft YaHei, sans-serif
+    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
     size:
 
   # Font settings for headlines (<h1> to <h6>).
   headings:
     external: false
-    family: PingFang SC, HarmonyOS_Medium, Helvetica Neue, Microsoft YaHei, sans-serif
+    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
     size:
 
   # Font settings for posts (.post-body).
   posts:
     external: false
-    family: PingFang SC, HarmonyOS_Medium, Helvetica Neue, Microsoft YaHei, sans-serif
+    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
 
   # Font settings for <code> and code blocks.
   codes:
@@ -775,7 +775,7 @@ google_analytics:
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
-baidu_analytics: # <app_id>
+baidu_analytics: 5ed71dcc0e5524fe10523e2eb3c4b8b0
 
 # Growingio Analytics
 # See: https://www.growingio.com
@@ -787,7 +787,7 @@ cloudflare_analytics: 1dd41a77ecbb465b99eb6be9db853202
 
 # Microsoft Clarity Analytics
 # See: https://clarity.microsoft.com/
-clarity_analytics: # <project_id>
+clarity_analytics: jzwejwsavh
 
 # Matomo Analytics
 # See: https://matomo.org/
