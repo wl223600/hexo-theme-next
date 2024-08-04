@@ -429,7 +429,7 @@ font:
   enable: true
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
-  #host:
+  host: https://fonts.font.im
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -438,31 +438,31 @@ font:
 
   # Global font settings used for all elements inside <body>.
   global:
-    external: false
-    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
+    external: true
+    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
     size: 1.125
 
   # Font settings for site title (.site-title).
   title:
-    external: false
-    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
+    external: true
+    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
     size:
 
   # Font settings for headlines (<h1> to <h6>).
   headings:
-    external: false
-    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
+    external: true
+    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
     size:
 
   # Font settings for posts (.post-body).
   posts:
-    external: false
-    family: PingFang SC,HarmonyOS_Medium,Helvetica Neue,Microsoft YaHei,sans-serif
+    external: true
+    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
 
   # Font settings for <code> and code blocks.
   codes:
-    external: false
-    family: PT Mono
+    external: true
+    family: "'PT Mono'"
 
 
 # ---------------------------------------------------------------
@@ -493,7 +493,7 @@ yandex_site_verification:
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification:
+baidu_site_verification: codeva-RUBzd0Krmf
 
 
 # ---------------------------------------------------------------
