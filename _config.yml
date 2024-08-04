@@ -441,25 +441,25 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
+    family: "'Noto Serif', 'Noto Serif SC', 'Noto Serif TC', 'Noto Serif CJK SC', 'Noto Serif CJK TC', 'NSimSun', 'SimSun', 'STSong', 'Noto Sans', 'HarmonyOS_Medium', 'OPlus Sans 3.0', 'OPPOSans 2.0', 'OPPOSans', 'MiSans', 'Helvetica Neue'"
     size: 1.125
 
   # Font settings for site title (.site-title).
   title:
     external: true
-    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
+    family:
     size:
 
   # Font settings for headlines (<h1> to <h6>).
   headings:
     external: true
-    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
+    family:
     size:
 
   # Font settings for posts (.post-body).
   posts:
     external: true
-    family: "'Noto Serif', 'Noto Serif SC', 'HarmonyOS_Medium', 'Helvetica Neue'"
+    family:
 
   # Font settings for <code> and code blocks.
   codes:
